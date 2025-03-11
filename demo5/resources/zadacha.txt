@@ -1,0 +1,7 @@
+
+Выполнимость КНФ с помощью АМК.
+
+System.out.println("Основные понятия:");
+    System.out.println("• И (AND): & • ∧ * : (Not implemented)");
+    System.out.println("• ИЛИ (OR): ∨ + : (Not implemented)");
+    System.out.println("• НЕ (NOT): ¬ ! : (Not implemented)");
